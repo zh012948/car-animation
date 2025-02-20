@@ -104,3 +104,13 @@ body {
 
 
 }
+
+
+
+.mario-2 {
+    position: absolute;
+    width: 80px;
+    top: -3px;
+    animation: drive 3s infinite;
+    animation-delay: 2s;
+}
